@@ -1,4 +1,4 @@
-# gaussian.arismatic.mindset
+# Gaussian.arithmetic.mindset
 Intermittent demand forecasting
 
 Intermittent demand forecasting The purpose of our project is to use a data analytic approach and then generalizing to a model-based approach. The data used for this analysis is from
