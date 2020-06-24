@@ -25,7 +25,6 @@ from statsmodels.tsa.stattools import adfuller
 from pandas import Series 
 import openpyxl
  
-# 0's in binary representation of a number 
 
 df = pd.read_csv('C:/Users/Monica/Documents/Monica Files/report/workspace/Python/ID/ID00.csv', parse_dates= True)
 style.use('ggplot')
